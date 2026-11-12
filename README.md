@@ -1,5 +1,5 @@
 
-# Hi, I'm Gesajda Berberaj 👋
+# Hi, I'm Gesajda Berberaj 
 
 ### Software Engineering Student | European University of Tirana
 
@@ -9,7 +9,7 @@ My academic background covers programming, web development, database systems, co
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 - Java
@@ -50,7 +50,7 @@ My academic background covers programming, web development, database systems, co
 
 ---
 
-## 🚀 Academic Projects
+## Academic Projects
 
 Throughout my studies, I have worked on projects involving web applications, desktop software, mobile development, databases, and computer networking.
 
