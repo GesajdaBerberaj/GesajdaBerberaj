@@ -50,24 +50,7 @@ My academic background covers programming, web development, database systems, co
 
 ---
 
-## Academic Projects
-
-Throughout my studies, I have worked on projects involving web applications, desktop software, mobile development, databases, and computer networking.
-
-### NoirCanvas – Art Gallery Web Application
-A web application developed using React, Node.js, Express.js, and MongoDB, featuring artwork management, user authentication, and gallery browsing.
-
-### EcoPulse Campus – Smart Campus Sustainability System
-A desktop application developed using C#, Windows Forms, and SQL Server to support environmental issue reporting and sustainability management within university campuses.
-
-### Networking & Security Labs
-Practical laboratory exercises involving network configuration, connectivity testing, network analysis, and security tools.
-
-*Project repositories and documentation will be added as they are finalized.*
-
----
-
-## 🎓 Education
+## Education
 
 **European University of Tirana (UET)**
 
